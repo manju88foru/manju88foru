@@ -2,7 +2,7 @@
 ### Senior DevOps & Cloud Infrastructure Architect 🚀
 
 <p align="center">
-  Email: [manjunathforu88@gmail.com](mailto:manjunathforu88@gmail.com)
+  <strong>Email:</strong> <a href="mailto:manjunathforu88@gmail.com" style="text-decoration: none; color: #64ffda;">manjunathforu88@gmail.com</a>
 </p>
 
 
