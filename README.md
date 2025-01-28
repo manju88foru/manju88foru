@@ -76,11 +76,5 @@
 ![Oracle Autonomous](https://img.shields.io/badge/-Oracle_Autonomous-FF0000?style=flat-square&logo=oracle)
 </details>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 <p align="center">💡 Let's connect and discuss how I can help optimize your infrastructure!</p>
