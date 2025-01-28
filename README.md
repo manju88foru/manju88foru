@@ -11,13 +11,13 @@
 - 🏢 Currently working as a **Senior DevOps & Cloud Infrastructure Architect**
 - 🌟 Specialized in **GPU Infrastructure Optimization** and **Cloud Architecture**
 - 💡 Known for **reducing infrastructure costs by 40%** through optimization
-- 🤝 Helping organizations choose and implement the right GPU solutions
+- 🤝 **GPU Consultant**: I can help you find the right GPU solutions at low costs.
 - 🚀 Passionate about **automating everything** and building scalable systems
 
 ### 🛠️ Current Focus
 - 🔭 Working on **GPU Infrastructure Optimization**
 - 🌱 Exploring **MLOps** and **AI Infrastructure**
-- 💬 Ask me about **DevOps, Cloud Architecture, GPU Infrastructure**
+- 💬 Ask me about **DevOps, Cloud Architecture, GPU Infrastructure, Kubernetes (K8s), and Helm**
 - ⚡ Fun fact: **I automate tasks even for my daily routines!**
 
 ### 🎯 Key Projects
@@ -28,16 +28,15 @@
 - 📦 **Cloud Migration** - Successfully migrated 100+ applications
 
 ### 🏆 Certifications
+- 🎖 **Docker Certified**
+- 🎖 **Oracle Infrastructure Certified**
+- 🎖 **Azure Foundation**
+- 🎖 **AWS Cloud Practitioner**
+- 🎖 **Autonomous DB Oracle**
 - 🎖 **AWS Solutions Architect Professional**
-- 🎖 **Google Cloud Professional Architect**
-- 🎖 **Azure Solutions Architect Expert**
-- 🎖 **Kubernetes CKA & CKAD**
 - 🎖 **HashiCorp Terraform Associate**
 
 ### 💻 Tech Stack
-
-<details>
-<summary>Click to expand</summary>
 
 #### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -74,7 +73,6 @@
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server)
 ![AWS Aurora](https://img.shields.io/badge/-AWS_Aurora-FF9900?style=flat-square&logo=amazon-aws)
 ![Oracle Autonomous](https://img.shields.io/badge/-Oracle_Autonomous-FF0000?style=flat-square&logo=oracle)
-</details>
 
 ---
 <p align="center">💡 Let's connect and discuss how I can help optimize your infrastructure!</p>
