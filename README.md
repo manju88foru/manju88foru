@@ -2,10 +2,9 @@
 ### Senior DevOps & Cloud Infrastructure Architect 🚀
 
 <p align="center">
-  <a href="mailto:manjunathforu88@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
+  Email: [manjunathforu88@gmail.com](mailto:manjunathforu88@gmail.com)
 </p>
+
 
 ### 💫 About Me
 - 🏢 Currently working as a **Senior DevOps & Cloud Infrastructure Architect**
